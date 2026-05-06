@@ -1,5 +1,0 @@
-north
-south
-east — review will comment here
-west
-center
