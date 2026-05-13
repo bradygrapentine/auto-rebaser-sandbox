@@ -8,3 +8,4 @@ Each PR in this repo demonstrates a Phase-2 automation:
 - Story 2.7 — auto-enable auto-merge
 - Story 2.8 — auto-resolve obsolete review threads
 - Story 2.9 — auto-dismiss stale PR notifications
+// reviewer-flow smoke — 2026-05-13T05:29:39Z
