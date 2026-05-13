@@ -8,3 +8,7 @@ Each PR in this repo demonstrates a Phase-2 automation:
 - Story 2.7 — auto-enable auto-merge
 - Story 2.8 — auto-resolve obsolete review threads
 - Story 2.9 — auto-dismiss stale PR notifications
+
+## Smoke fixture (bradygrapentine)
+
+Open PR authored by bradygrapentine. Used by the auto-rebaser smoke runbook §5 to verify cross-account isolation: this PR should appear in the popup under @bradygrapentine but never under @bgrapentine (even though bgrapentine is a collaborator on this repo, they did not author this PR).
